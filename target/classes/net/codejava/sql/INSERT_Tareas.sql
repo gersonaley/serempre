@@ -1,0 +1,17 @@
+INSERT INTO tarea(titulo, descripcion, usuario, t_estimado) VALUES
+('Historias de usuarios', 'Análisis de requerimientos funcionales de la aplicación', 'Gerson Aley', 20),
+('Historias de usuarios', 'Análisis de requerimientos funcionales de la aplicación', 'María Rivas', 18),
+('Historias de usuarios', 'Análisis de requerimientos funcionales de la aplicación', 'Michelle López', 12),
+('Historias de usuarios', 'Análisis de requerimientos funcionales de la aplicación', 'Estéfany López', 22),
+('Elaboración de Wireframes', 'Realizar prototipos de aplicación web y móvil', 'Gerson Aley', 20),
+('Elaboración de Wireframes', 'Realizar prototipos de aplicación web y móvil', 'Fabiana Aley', 25),
+('Elaboración de Wireframes', 'Realizar prototipos de aplicación web y móvil', 'María Rivas', 18),
+('Elaboración de Wireframes', 'Realizar prototipos de aplicación web y móvil', 'Aranza Morales', 20),
+('Reunión con el cliente', 'Presentar avances del proyecto según cronograma', 'Gerson Aley', 2),
+('Reunión con el cliente', 'Presentar avances del proyecto según cronograma', 'Gerson Alejandro Aley', 2),
+('Reunión con el cliente', 'Presentar avances del proyecto según cronograma', 'Michelle López', 2),
+('Reunión con el cliente', 'Presentar avances del proyecto según cronograma', 'Estéfany López', 1),
+('Reunión con el cliente', 'Presentar avances del proyecto según cronograma', 'María Rivas', 2),
+('Desarrollo de base de datos', 'Realizar el diseño de la base de datos de la aplicación', 'Gerson Aley', 12),
+('Desarrollo de base de datos', 'Realizar el diseño de la base de datos de la aplicación', 'María Rivas', 12),
+('Desarrollo de base de datos', 'Realizar el diseño de la base de datos de la aplicación', 'Aranza Morales', 12);
